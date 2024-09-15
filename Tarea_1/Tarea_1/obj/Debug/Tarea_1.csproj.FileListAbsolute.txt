@@ -1,0 +1,7 @@
+C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 5 C# (again)\Tareas\Tarea_1\Tarea_1\Tarea_1\bin\Debug\Tarea_1.exe.config
+C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 5 C# (again)\Tareas\Tarea_1\Tarea_1\Tarea_1\bin\Debug\Tarea_1.exe
+C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 5 C# (again)\Tareas\Tarea_1\Tarea_1\Tarea_1\bin\Debug\Tarea_1.pdb
+C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 5 C# (again)\Tareas\Tarea_1\Tarea_1\Tarea_1\obj\Debug\Tarea_1.csproj.AssemblyReference.cache
+C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 5 C# (again)\Tareas\Tarea_1\Tarea_1\Tarea_1\obj\Debug\Tarea_1.csproj.CoreCompileInputs.cache
+C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 5 C# (again)\Tareas\Tarea_1\Tarea_1\Tarea_1\obj\Debug\Tarea_1.exe
+C:\Users\PRINCIPAL\Documents\Cosas de la U\La Castro\Progra 5 C# (again)\Tareas\Tarea_1\Tarea_1\Tarea_1\obj\Debug\Tarea_1.pdb
